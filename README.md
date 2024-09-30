@@ -1,9 +1,11 @@
-### Olá, eu sou o Marcos 👋
+### Olá, seja bem-vindo! ☕
+### Eu sou o Marcos! 👋😄
 
-Desenvolvedor com foco em web backend porém disposto e a procura de novos desafios!
-Em constante aprendizado, buscando sempre aprimorar meus conhecimentos em tecnologia. ☕
+Desenvolvedor com foco em web backend porém disposto e a procura de novos desafios! ⚡
 
-<div style="display: inline_block"><br> <!---->
+Em constante aprendizado, buscando sempre aprimorar meus conhecimentos em tecnologia. 💻
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg">
   <img align="center" alt="Marcos-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
   <img align="center" alt="Marcos-Java" height="33" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -12,9 +14,10 @@ Em constante aprendizado, buscando sempre aprimorar meus conhecimentos em tecnol
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  
-  <!-- <img align="center" alt="Marcos-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <!-- 
+  <img align="center" alt="Marcos-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+  -->
 </div>
   
   ##
@@ -23,11 +26,12 @@ Em constante aprendizado, buscando sempre aprimorar meus conhecimentos em tecnol
   <a href="https://www.youtube.com/@marcos.grocha" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-grocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcos.grocha@souunit.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <!-- 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/MARCOSGROCHA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  
- 	<a href="https://www.twitch.tv/MARCOSGROCHA" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-  
+ 	<a href="https://www.twitch.tv/MARCOSGROCHA" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  --> 
 </div>
 
 <!-- 
