@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo! ☕
+### Olá, boas-vindas! ☕
 
 Desenvolvedor com foco em web backend porém <strong>disposto e a procura</strong> de novos desafios! ⚡
 
