@@ -1,5 +1,4 @@
 ### Olá, seja bem-vindo! ☕
-### Eu sou o Marcos: 👋😄
 
 Desenvolvedor com foco em web backend porém <strong>disposto e a procura</strong> de novos desafios! ⚡
 
